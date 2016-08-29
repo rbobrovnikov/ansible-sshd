@@ -1,0 +1,8 @@
+---
+
+ssh_port: 22
+ssh_alt_port: 7722
+ssh_login_grace_time: 30s
+ssh_permit_root_login: "yes"
+ssh_max_auth_retr: 3
+ssh_max_sessions: 5
